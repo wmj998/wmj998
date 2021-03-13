@@ -2,9 +2,4 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wmj998@foxmail.com
-
-<!---
-wmj998/wmj998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 My contact information: wmj998@foxmail.com
