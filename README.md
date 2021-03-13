@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmj998
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wmj998@foxmail.com
