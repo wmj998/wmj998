@@ -2,4 +2,4 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 My contact information is wmj998@foxmail.com
+- 📫  My contact information is wmj998@foxmail.com
